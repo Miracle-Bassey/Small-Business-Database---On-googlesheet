@@ -43,6 +43,8 @@ It’s a personal and practical tool that brings clarity to her numbers, because
 
 Download the sheet and its all ready.
 Note : the data used here are dummy data.
+**[Link Text]([https://docs.google.com/spreadsheets/d/1ShRc032PaWmj8QvAbXjy4idCo2FFq303vKvR7BIq0o0/edit?usp=sharing])**
+
 ---
 
 Crafted with love 💗 to support your first steps as a boss!
